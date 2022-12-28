@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+ *  prints a[2] = 98
+ *   Return: 0 (success)
+ */
 int main(void)
 {
 	int n;
@@ -16,8 +20,8 @@ int main(void)
 	 * - only one statement
 	 * - you are not allowed to code anything else than this line of code
 	 */
-	p[5] = 98;
-	/* ...so that this prints 98\n */
-	printf("a[2] = %d\n", a[2]);
-	return (0);
+	  ;
+	  /* ...so that this prints 98\n */
+	  printf("a[2] = %d\n", a[2]);
+	  return (0);
 }
